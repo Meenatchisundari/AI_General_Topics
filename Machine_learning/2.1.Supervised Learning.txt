@@ -278,4 +278,28 @@ Example:
 
 Scaling entire dataset before splitting
 
+
 📌 Always fit preprocessors only on training data.
+
+
+10. Real-World Supervised Learning Pipeline
+
+Data collection
+
+Data cleaning
+
+Feature engineering
+
+Train-test split
+
+Model selection
+
+Training
+
+Hyperparameter tuning
+
+Evaluation
+
+Deployment
+
+Monitoring
